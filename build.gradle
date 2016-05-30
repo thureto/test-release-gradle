@@ -61,6 +61,6 @@ scmVersion {
         prefix = 'test-release-gradle'
     }
     repository {
-        customKey = project.file('C:\\Users\\oliv\\.sshkeys\\id_rsa')
+        customKey = project.file('C:\\Users\\oliv\\.ssh\\id_rsa')
     }
 }
