@@ -61,7 +61,7 @@ scmVersion {
         prefix = 'test-release-gradle'
     }
     repository {
-        //customKey = project.file('C:\\Users\\oliv\\.ssh\\id_rsa')
-        customKey = "AAAAB3NzaC1yc2EAAAABIwAAAgEAqSmL5r4mB3P0DUlA3KAeUh8DFB1DupxCP1gGSymoRq2j2+0bpHQNfqrJtiA1DA+tpzMXNBzWwI9FfRMxTGknlnbRwX0lkT4LgP8EWP3IaMGcRAC5VOIS0mi3SdzIHW1eCvFcVLmazZDmH7AuVjnydFBik+nL7z38iRvjktti6BomYG44MjBCxLyjwzEysN69C2vCJy1NLexq33LOA+qGC0clJOr49oQ0ApP/Kl9PuVHZ/wkprzopyGc6jExgnuAbQSRrTf4iBWLItgH6VQbSc0WAd8k7xA0gQA0OpzauvIV+atHszPUQaxt6V59sNSgdoocHrJUcexcbP8OjYwbtuHNcBVNOf8LxG02fXOl2aL20UnaVnZAF79fb7jiugVX7WukVtcKi8pWG8AlqtycJYKyOyzy1xZhjsqaIuUXu4kZJqg9iJhJyBTJF4zncAceWP9hGuIdWB1dWvo0PWEqTUvrsPtbwDpTpBpI2MczA+D1FA9ghI2EzyWpEQblP4OMG6zXGSsjta7AqCZI/ADBfq1UhiLeKFzK9sy/2Mn/ubX9lsqKX8mS+i/6hLtcTs9L4+Xw5lsEmnwj3xQ5acviNiHeTHp1LJqrKy5jHmwlGSkCAKVYVzprHS0izJKCf4JDonciqhHNDlycJN333Kx5k6PXb/iM4woUYjyDu5U9CNL0="
+        customKey = project.file('C:\\Users\\oliv\\.ssh\\id_rsa.pub')
+        //customKey = "AAAAB3NzaC1yc2EAAAABIwAAAgEAqSmL5r4mB3P0DUlA3KAeUh8DFB1DupxCP1gGSymoRq2j2+0bpHQNfqrJtiA1DA+tpzMXNBzWwI9FfRMxTGknlnbRwX0lkT4LgP8EWP3IaMGcRAC5VOIS0mi3SdzIHW1eCvFcVLmazZDmH7AuVjnydFBik+nL7z38iRvjktti6BomYG44MjBCxLyjwzEysN69C2vCJy1NLexq33LOA+qGC0clJOr49oQ0ApP/Kl9PuVHZ/wkprzopyGc6jExgnuAbQSRrTf4iBWLItgH6VQbSc0WAd8k7xA0gQA0OpzauvIV+atHszPUQaxt6V59sNSgdoocHrJUcexcbP8OjYwbtuHNcBVNOf8LxG02fXOl2aL20UnaVnZAF79fb7jiugVX7WukVtcKi8pWG8AlqtycJYKyOyzy1xZhjsqaIuUXu4kZJqg9iJhJyBTJF4zncAceWP9hGuIdWB1dWvo0PWEqTUvrsPtbwDpTpBpI2MczA+D1FA9ghI2EzyWpEQblP4OMG6zXGSsjta7AqCZI/ADBfq1UhiLeKFzK9sy/2Mn/ubX9lsqKX8mS+i/6hLtcTs9L4+Xw5lsEmnwj3xQ5acviNiHeTHp1LJqrKy5jHmwlGSkCAKVYVzprHS0izJKCf4JDonciqhHNDlycJN333Kx5k6PXb/iM4woUYjyDu5U9CNL0="
     }
 }
