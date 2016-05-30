@@ -21,8 +21,8 @@ apply plugin: 'maven'
 allprojects {
     apply plugin: 'java'
     // Use Java 8 by default
-    sourceCompatibility = '1.7'
-    targetCompatibility = '1.7'
+    sourceCompatibility = '1.8'
+    targetCompatibility = '1.8'
     version = project.version
     repositories {
         jcenter()
