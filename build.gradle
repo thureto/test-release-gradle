@@ -54,3 +54,10 @@ ext {
 task wrapper(type: Wrapper) {
     gradleVersion = '2.12'
 }
+
+scmVersion {
+    versionIncrementer 'incrementMinor'
+    tag {
+        prefix = 'test-release-gradle'
+    }
+}
